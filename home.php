@@ -117,44 +117,44 @@ include 'components/wishlist_cart.php';
 
    <div class="swiper-wrapper">
 
-   <a href="category.php?category=laptop" class="swiper-slide slide">
-      <img src="images/icon-1.png" alt="">
-      <h3>Laptop</h3>
+   <a href="category.php?category=mug" class="swiper-slide slide">
+      <img src="images/cup.png" alt="">
+      <h3>Mugs</h3>
    </a>
 
-   <a href="category.php?category=tv" class="swiper-slide slide">
-      <img src="images/icon-2.png" alt="">
-      <h3>TV</h3>
+   <a href="category.php?category=tshirt" class="swiper-slide slide">
+      <img src="images/shirt.png" alt="">
+      <h3>T-Shirt</h3>
    </a>
 
-   <a href="category.php?category=camera" class="swiper-slide slide">
-      <img src="images/icon-3.png" alt="">
-      <h3>Camera</h3>
+   <a href="category.php?category=keychain" class="swiper-slide slide">
+      <img src="images/keychain.png" alt="">
+      <h3>Keychain</h3>
    </a>
 
-   <a href="category.php?category=mouse" class="swiper-slide slide">
-      <img src="images/icon-4.png" alt="">
-      <h3>Mouse</h3>
+   <a href="category.php?category=poster" class="swiper-slide slide">
+      <img src="images/poster.png" alt="">
+      <h3>Poster</h3>
    </a>
 
-   <a href="category.php?category=fridge" class="swiper-slide slide">
-      <img src="images/icon-5.png" alt="">
-      <h3>Fridge</h3>
+   <a href="category.php?category=hoodie" class="swiper-slide slide">
+      <img src="images/hoodie.png" alt="">
+      <h3>Hoodie</h3>
    </a>
 
-   <a href="category.php?category=washing" class="swiper-slide slide">
-      <img src="images/icon-6.png" alt="">
-      <h3>Washing Machine</h3>
+   <a href="category.php?category=tote" class="swiper-slide slide">
+      <img src="images/bag.png" alt="">
+      <h3>Tote Bag</h3>
    </a>
 
-   <a href="category.php?category=smartphone" class="swiper-slide slide">
-      <img src="images/icon-7.png" alt="">
-      <h3>SmartPhone</h3>
+   <a href="category.php?category=phonecase" class="swiper-slide slide">
+      <img src="images/phone-case.png" alt="">
+      <h3>Phone Case</h3>
    </a>
 
-   <a href="category.php?category=watch" class="swiper-slide slide">
-      <img src="images/icon-8.png" alt="">
-      <h3>Watch</h3>
+   <a href="category.php?category=card" class="swiper-slide slide">
+      <img src="images/business-card.png" alt="">
+      <h3>Cards</h3>
    </a>
 
    </div>
