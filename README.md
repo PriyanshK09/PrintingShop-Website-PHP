@@ -1,14 +1,6 @@
 ## **PHP E-Commerce Website**
 
-This is a **fully functional e-commerce website** built using **PHP**, **CSS**, and **JavaScript**. The project features user authentication, product listings, a shopping cart, and a checkout system, providing a seamless shopping experience. The responsive design ensures accessibility across various devices, and the intuitive interface enhances user interaction.
-
-## Some Images:
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(37).png?alt=media&token=73fa51e4-f360-4f46-921b-d979cfe3597a"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(38).png?alt=media&token=aced734d-1200-471d-86cf-06b898b781d4"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(39).png?alt=media&token=9ae2a823-f4ac-462d-9068-d6b277b5854a"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(40).png?alt=media&token=e232c624-ba74-46df-9c52-f90cfaaef39d"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(42).png?alt=media&token=e44c6cdb-c19c-4c3b-af23-bb5af7e63db7"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(41).png?alt=media&token=2a5d4c4b-c370-49e1-8f2f-6695ffe7d64a"/>
+This is a **fully functional website** built using **PHP**, **CSS**, and **JavaScript**. The project features user authentication, product listings, a shopping cart, and a checkout system, providing a seamless shopping experience. The responsive design ensures accessibility across various devices, and the intuitive interface enhances user interaction.
 
 ## **Features:**
 - **User Registration and Login:** Secure user authentication.
@@ -25,39 +17,3 @@ This is a **fully functional e-commerce website** built using **PHP**, **CSS**, 
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
-
-## How to Download and Run This Project
-
-### Steps to Set Up Locally Using XAMPP:
-
-1. **Download the Code**  
-   - Click the download link given below and download the ZIP file on your computer.
-
-2. **Move the Project to XAMPP Directory**  
-   - Copy the extracted folder to your XAMPP `htdocs` directory (e.g., `C:/xampp/htdocs/`).
-   - Open XAMPP and start APACHE and MYSQL modules.
-
-3. **Import the MySQL Database**  
-   - Open **phpMyAdmin** (`http://localhost/phpmyadmin`) in your browser.
-   - Create a new database (e.g., `shop_db`). #Keep the name same as the database name given in the code.
-   - Import the included SQL file (`shop_db.sql`) into this new database.
-
-4. **Configure the Database Connection**  
-   - Open the project folder and navigate to the file where the database connection is set (e.g., `config.php` or `db_connection.php`).
-   - Update the database credentials if necessary:
-     ```php
-     $host = 'localhost';
-     $user = 'root';
-     $pass = '';
-     $dbname = 'shop_db';
-     ```
-
-5. **Run the Project**  
-   - Open your browser and visit `http://localhost/your-folder-name` to access the website.
-
-
-Feel free to explore the code, contribute, or use it as a reference for your own projects!
-
-## Download Link
-
-[Click here to download](https://github.com/Shashwat787/Ecommerce-Website/archive/refs/heads/main.zip)
